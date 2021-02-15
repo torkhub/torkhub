@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport Editor from '../../components/Editor';\n\nconst EditorPage = () => __jsx(Editor, null);\n\nexport default EditorPage;","map":null,"metadata":{},"sourceType":"module"}

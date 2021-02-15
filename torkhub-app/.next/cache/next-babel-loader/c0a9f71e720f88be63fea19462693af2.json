@@ -1,0 +1,1 @@
+{"ast":null,"code":"const data = Array(24).fill(0).map((_, i) => {\n  return i + 1;\n});\nexport default ((req, res) => {\n  setTimeout(() => {\n    res.json(data);\n  }, 2000);\n});","map":null,"metadata":{},"sourceType":"module"}

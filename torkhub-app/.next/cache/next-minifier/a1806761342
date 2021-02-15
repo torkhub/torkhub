@@ -1,0 +1,1 @@
+{"code":"(window.webpackJsonp=window.webpackJsonp||[]).push([[26],{h9Yk:function(n,e,t){\"use strict\";t.r(e);var w=t(\"q1tI\"),a=t.n(w).a.createElement;e.default=()=>a(\"p\",null,\"Blank\")},kG6W:function(n,e,t){(window.__NEXT_P=window.__NEXT_P||[]).push([\"/pages/blank\",function(){return t(\"h9Yk\")}])}},[[\"kG6W\",1,0]]]);"}

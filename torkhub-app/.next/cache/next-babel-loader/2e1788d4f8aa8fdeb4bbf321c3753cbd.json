@@ -1,0 +1,1 @@
+{"ast":null,"code":"import fetch from \"isomorphic-unfetch\";\nexport default async function (...args) {\n  const res = await fetch(...args);\n  const result = await res.json();\n\n  if (res.status !== 200) {\n    throw new Error(result.error);\n  }\n\n  return result;\n}","map":null,"metadata":{},"sourceType":"module"}

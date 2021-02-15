@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport MapLocation from \"../../components/MapLocation\";\n\nconst MapLocationPage = () => __jsx(MapLocation, null);\n\nexport default MapLocationPage;","map":null,"metadata":{},"sourceType":"module"}

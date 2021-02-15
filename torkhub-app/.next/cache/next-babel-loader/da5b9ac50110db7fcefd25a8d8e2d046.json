@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport AlertsPage from \"../../demos/Reactstrap/AlertsPage\";\n\nconst Alerts = () => __jsx(AlertsPage, null);\n\nexport default Alerts;","map":null,"metadata":{},"sourceType":"module"}

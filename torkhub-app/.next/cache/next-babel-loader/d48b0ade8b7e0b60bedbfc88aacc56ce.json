@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function throttle(fn, interval) {\n  let pending = false;\n  return (...args) => {\n    if (pending) return;\n    pending = true;\n    fn(...args);\n    setTimeout(() => pending = false, interval);\n  };\n}","map":null,"metadata":{},"sourceType":"module"}
